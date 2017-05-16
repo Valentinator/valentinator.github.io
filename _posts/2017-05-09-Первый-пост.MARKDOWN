@@ -8,5 +8,5 @@ That is my first post. I decided to write in English instead of Russian. This is
 <img src="https://github.com/Valentinator/valentinator.github.io/blob/master/downloads/Gihub_website.PNG">
 
 <img src="https://github.com/Valentinator/valentinator.github.io/blob/master/downloads/registrar.PNG">
-<img src="{{ site.baseurl }}/downloads/Gihub_website.PNG">
+
 
