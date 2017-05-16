@@ -11,3 +11,4 @@ That is my first post. I decided to write in English instead of Russian. This is
 
 
 [image-title-here](https://github.com/Valentinator/valentinator.github.io/blob/master/downloads/registrar.PNG){:class="img-responsive"}
+{% include image name="registrar.png" caption="Sharing my blog on LinkedIn" %}
