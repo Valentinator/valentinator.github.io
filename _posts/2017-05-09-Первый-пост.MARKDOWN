@@ -8,7 +8,7 @@ That is my first post. I decided to write in English instead of Russian. This is
 <img src="https://github.com/Valentinator/valentinator.github.io/blob/master/downloads/Gihub_website.PNG?raw=true">
 
 <img src="https://raw.githubusercontent.com/Valentinator/valentinator.github.io/master/downloads/registrar.PNG">
-{% include image name="registrar.png" caption="Sharing my blog on LinkedIn" %}
+
 
 [image-title-hhhere!!!!](https://github.com/Valentinator/valentinator.github.io/blob/master/downloads/registrar.PNG?raw=true)
 ![Bilby Stampede](https://github.com/Valentinator/valentinator.github.io/blob/master/downloads/Gihub_website.PNG?raw=true)
